@@ -1,4 +1,4 @@
-**Moritz Schumacher**: Software engineer (Dipl.-Ing., TU Wien), Vienna.
+**Moritz Schumacher**: Dipl.-Ing. Software Engineering (TU Wien) · Vienna.
 
 **Built for myself and in daily use**
 - [**moscookbook**](https://github.com/morischumacher/moscookbook): recipe platform that reads recipes from links, screenshots and photos. Live at [moscookbook.com](https://www.moscookbook.com)
